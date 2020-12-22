@@ -12,9 +12,6 @@ function setup() {
   weight = random(400,1500);
 
   car.velocityX = speed;
-
-  car.debug = true;
-  wall.debug = true;
 }
 
 function draw() {
